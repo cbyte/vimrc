@@ -25,6 +25,7 @@ Bundle 'tomtom/tcomment_vim'
 Bundle 'sickill/vim-monokai'
 Bundle 'tomasr/molokai'
 Bundle 'tmhedberg/matchit'
+Bundle 'mhinz/vim-startify'
 "snipmate
 Bundle "MarcWeber/vim-addon-mw-utils"
 Bundle "tomtom/tlib_vim"

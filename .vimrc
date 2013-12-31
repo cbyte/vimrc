@@ -62,3 +62,4 @@ set nobackup
 set noswapfile
 set noerrorbells
 nnoremap ; :
+set shortmess+=I

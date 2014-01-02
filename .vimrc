@@ -64,3 +64,5 @@ set noswapfile
 set noerrorbells
 nnoremap ; :
 set shortmess+=I
+map <silent> <C-t> :tabe<CR>
+map <silent> <C-w> :q<CR>
